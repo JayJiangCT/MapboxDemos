@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MapboxFeatrues</string>
+    <string name="error_select_longer_route">Please select a longer route</string>
 </resources>
